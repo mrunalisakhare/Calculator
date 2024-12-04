@@ -25,6 +25,7 @@ There are total two ways to interact with calculator: -
     * Hit enter after the valid expression so that it prints final result.
  
 ## Live Demo
-See Live Demo [ Here ] (https://github.com/mrunalisakhare/Calculator)
+
+See Live Demo [ Here ](https://github.com/mrunalisakhare/Calculator)
 
 
