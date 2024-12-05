@@ -2,8 +2,8 @@
 A simple , responsive Calculator App built using HTML ,CSS and JavaScript with dark mode and light mode. Feel free to check out the code and don't forget to star the repo.⭐
 
 ## Demo
-<br>
 
+https://github.com/user-attachments/assets/cb4cf9d7-9c62-4934-97db-97e4365b4510
 
 ## Technologies Used
 * HTML
