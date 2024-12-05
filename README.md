@@ -5,7 +5,6 @@ A simple , responsive Calculator App built using HTML ,CSS and JavaScript with d
 <br>
 
 
-
 ## Technologies Used
 * HTML
 * CSS
@@ -26,6 +25,6 @@ There are total two ways to interact with calculator: -
  
 ## Live Demo
 
-See Live Demo [ Here ](https://github.com/mrunalisakhare/Calculator)
+See Live Demo [ Here ](https://mrunalisakhare.github.io/Calculator/)
 
 
